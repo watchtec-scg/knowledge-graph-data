@@ -1,28 +1,28 @@
-id,name_th
-1,ช่างจากแพลตฟอร์มคิวช่าง
-2,Future charge
-3,Minima House
-4,KEMREX
-5,BIW
-6,SCG Home Experience Vendor
-7,CVT
-8,Do Care
-9,SCG Living and Housing Solution
-10,บริษัท หญ้าเทียมพรีเมียม จำกัด
-11,Lamina
-12,MagiX
-13,NAICHANG HOME SOLUTION
-14,Freshnergy
-15,SCG Home Experience
-16,HomeSmile
-17,SCG Distribution
-18,Cooncho Product
-19,SCG
-20,VICHITR
-21,EZYBUILT
-22,ShowerKing
-23,LINEDEKOR
-24,สาดส่องแสง
-25,dooDeco
-26,MeClass
-27,AIRWAVE+
+id,name_th,id_name_th
+1,ช่างจากแพลตฟอร์มคิวช่าง,ช่างจากแพลตฟอร์มคิวช่าง
+2,Future charge,future_charge
+3,Minima House,minima_house
+4,KEMREX,kemrex
+5,BIW,biw
+6,SCG Home Experience Vendor,scg_home_experience_vendor
+7,CVT,cvt
+8,Do Care,do_care
+9,SCG Living and Housing Solution,scg_living_and_housing_solution
+10,บริษัท หญ้าเทียมพรีเมียม จำกัด,บริษัท_หญ้าเทียมพรีเมียม_จำกัด
+11,Lamina,lamina
+12,MagiX,magix
+13,NAICHANG HOME SOLUTION,naichang_home_solution
+14,Freshnergy,freshnergy
+15,SCG Home Experience,scg_home_experience
+16,HomeSmile,homesmile
+17,SCG Distribution,scg_distribution
+18,Cooncho Product,cooncho_product
+19,SCG,scg
+20,VICHITR,vichitr
+21,EZYBUILT,ezybuilt
+22,ShowerKing,showerking
+23,LINEDEKOR,linedekor
+24,สาดส่องแสง,สาดส่องแสง
+25,dooDeco,doodeco
+26,MeClass,meclass
+27,AIRWAVE+,airwave+
